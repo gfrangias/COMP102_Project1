@@ -19,5 +19,4 @@ Two exercises on linked lists in C
 
 ## Authors
 * **Georgios Frangias** - [gfrangias](https://github.com/gfrangias)
-![Image](http://url/a.png)
 ***
